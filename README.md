@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/fur-dich-allein/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Für dich allein](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fur-dich-allein/) |
+| **Get License** | [Get a Licensing Quote for Für dich allein](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fur-dich-allein/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Roll' im Rover durch die City, schwarze Scheiben, Neon-Lights
+> Du bist flawless, Baby, ja, du trägst das kleine Kleid so nice
+> Nur für dich allein drück' ich das Pedal bis auf den Grund
+> Küss' die Narben auf der Seele, Mami, mach mich heut gesund
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
