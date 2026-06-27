@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Für dich allein
+
+This log tracks the cryptographic history and versioning for the song **Für dich allein** (fur-dich-allein).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-28T00:10:39.492598 | `v1` | `92707b6c381b1e35f064991adf83a2304479f3f8a75ffa6571f296e59f54e78f` | `dda719cf4c1cdc6a7e6631526ef52493d69df9f0c2d01770f583028c0183b2ed` | `2026-06-28_fur-dich-allein-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
